@@ -1,6 +1,6 @@
 class Block
   def foo
-    puts "one"
+    puts "one\n"
     yield
   end
 end
